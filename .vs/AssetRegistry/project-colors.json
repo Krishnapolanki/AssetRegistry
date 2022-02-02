@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "626b50dc-d9e2-4aae-8810-af64d646982d": {
+      "ProjectGuid": "626b50dc-d9e2-4aae-8810-af64d646982d",
+      "DisplayName": "AssetRegistry.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

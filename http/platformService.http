@@ -1,0 +1,12 @@
+GET http://assetregistry.com/api/c/platforms
+Content-Type: application/json
+
+#####
+POST http://assetregistry.com/api/Platform    
+Content-Type: application/json
+
+{
+    "name": "Docker",
+    "publisher": "Docker",
+    "cost": "Free"
+}
